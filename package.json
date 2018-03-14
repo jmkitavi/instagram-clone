@@ -1,6 +1,8 @@
 {
   "name": "instagram-clone",
   "version": "0.1.0",
+  "description": "damn clone of instagram",
+  "author": "sirjmkitavi",
   "private": true,
   "devDependencies": {
     "jest-expo": "25.0.0",
